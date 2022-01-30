@@ -1,0 +1,62 @@
+.foter{
+
+background-color: black;
+position:fixed; bottom:0; left:0; right:0; width:100%; height: 60px;
+
+}
+.ico{
+    width: 200px;
+    height: 48px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: auto;
+}
+#headtext{
+    font-size: large;
+    font: bold;
+}
+.navbar-bran{
+    font-family: fantasy;
+    font-size: 30px;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    
+    
+}
+.navbar-bran:hover{
+    font-size: 32px;
+    color: white;
+    font: bold;
+    
+}
+.backimg{
+    height: 100vh;
+    background-image: url('https://mdbcdn.b-cdn.net/img/new/fluid/nature/015.webp')
+}
+
+.proj{
+
+    width: 800px;
+    height: 300px;
+    display: block;
+    background-color: tomato;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    margin-bottom: auto;
+}
+.vid{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.head1{
+    font-size: 50px;
+    color: white;
+}
+.mytex{
+    font-size: 15px;
+    color: white;
+}
